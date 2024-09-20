@@ -1,0 +1,35 @@
+git install for win or linux 
+ 
+git init 
+git initialize :   select directory for git and curent directory type git init 
+--------------------------------------------------------------------------------------------------------
+stage of git :
+1:working directory 
+#git not untracked file   
+2:satging Area
+#git tracking file :  git add filename
+3:git directory 
+#git seve file in local directory  :   git commit -m "massage"
+----------------------------------------------------------------------------------------------------------
+Remote Repository:
+Github or Repository your self 
+----------------------------------------------------------------------------------------------------------
+branch in git:
+#kar kardan ru file asli bedun hich taghiri dar file asli be 2 ravesh:
+1:CvcS:Centralized version control system
+#file dar dast karbar darhal taghir ast va dar surat nabud repository file asli mojud nist . 
+2:DvcS:Distibuted version control system 
+#dota copy az file  asli migire yeki negah midare yekiro vase taghir mide be karbar .
+-----------------------------------------------------------------------------------------------------------
+git init :moshakhas kardan repository local git 
+--
+git add filename  : track kardan file mojud be git az mode working dir be mode staging
+--
+git commit -m "massage"  :az mode staging be mode git directory (save file in git local) with massage
+--
+git status  : namayesh vazeyat files ke dar che stagi hastand 
+--
+ll ls -a : didan mohtavaye directorys
+--
+git log  : didan log commit 
+--
